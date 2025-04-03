@@ -1,2 +1,0 @@
-<?php
-new SoapClient(__DIR__."/bug62900.wsdl");
